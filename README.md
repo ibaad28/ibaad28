@@ -9,12 +9,12 @@
 </td>
 <td>
 
-### Hi, I'm Ibaad 
+### Hi, I'm Ibaad 👋
 
 **Full-Stack Developer** and Computer Science student at **SZABIST**.<br/>
 I build and ship web products end to end, from database design and secure APIs to polished React interfaces.
 
-<a href="https://ibaad-portfolio-site.netlify.app/resume.pdf"><img src="https://img.shields.io/badge/Résumé-7cf5c8?style=for-the-badge&logo=readdotcv&logoColor=07080b" /></a>
+<a href="https://drive.google.com/file/d/1Qwm6B0CeyjIwR3vyWBV56elw1BUiOGm1/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-7cf5c8?style=for-the-badge&logo=readdotcv&logoColor=07080b" /></a>
 <a href="https://ibaad-portfolio-site.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=7cf5c8" /></a>
 <a href="https://www.linkedin.com/in/shaikh-ibaad-ur-rehman-5b3437375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
