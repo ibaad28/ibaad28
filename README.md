@@ -5,7 +5,7 @@
 <table align="center">
 <tr>
 <td width="250" align="center">
-  <img src="avatar.svg?v=2" width="230" alt="Shaikh Ibaad Ur Rehman"/>
+  <img src="avatar-new.svg" width="230" alt="Shaikh Ibaad Ur Rehman"/>
 </td>
 <td>
 
