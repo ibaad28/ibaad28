@@ -1,38 +1,80 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07080b,50:0f3d33,100:7cf5c8&height=200&section=header&text=Shaikh%20Ibaad%20Ur%20Rehman&fontSize=40&fontColor=ecefe9&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20Supabase%20%C2%B7%20AI&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
-</p>
+<a href="https://ibaad-portfolio-site.netlify.app/">
+  <img src="assets/header.svg" width="100%" alt="Shaikh Ibaad Ur Rehman: Full-Stack Developer"/>
+</a>
 
-<p align="center">
-  <a href="https://ibaad-portfolio-site.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=7CF5C8&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+products+end+to+end;React+%2B+TypeScript+%2B+Supabase+%2B+Express;Shipped+an+AI+study-abroad+platform+with+Gemini;Open+to+remote+internships+%26+junior+roles" alt="Typing SVG" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="250" align="center">
+  <img src="assets/avatar.svg" width="230" alt="Shaikh Ibaad Ur Rehman"/>
+</td>
+<td>
 
-<p align="center">
-  <a href="https://ibaad-portfolio-site.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7cf5c8?style=for-the-badge&logo=googlechrome&logoColor=07080b" /></a>
-  <a href="https://www.linkedin.com/in/shaikh-ibaad-ur-rehman-5b3437375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/923100778624"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:ibaadshaikh56@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ibaad28&color=7cf5c8&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+### Hi, I'm Ibaad 👋
 
----
+**Full-Stack Developer** and Computer Science student at **SZABIST**.<br/>
+I build and ship web products end to end, from database design and secure APIs to polished React interfaces.
 
-## 👋 About me
+<a href="https://wa.me/923100778624?text=Hi%20Ibaad%2C%20I%20saw%20your%20GitHub%20and%20would%20like%20to%20talk%20about%20a%20role."><img src="https://img.shields.io/badge/Hire%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://ibaad-portfolio-site.netlify.app/resume.pdf"><img src="https://img.shields.io/badge/Résumé-7cf5c8?style=for-the-badge&logo=readdotcv&logoColor=07080b" /></a>
+<a href="https://ibaad-portfolio-site.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=7cf5c8" /></a>
+<a href="https://www.linkedin.com/in/shaikh-ibaad-ur-rehman-5b3437375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a **Computer Science student at SZABIST** who builds and ships full-stack web products end to end, from database design and secure APIs to polished React interfaces.
+</td>
+</tr>
+</table>
 
-- 💼 **Currently:** Developer Intern at **Optivise Overseas Education**
-- 📍 **Based in:** Karachi, Pakistan · open to remote work
-- 🛠️ **Building:** AI-powered web apps, secure APIs and 3D web experiences
-- 📚 **Learning:** Android development (Meta via Coursera)
-- 🎯 **Looking for:** a remote internship or junior developer role
-- 🌍 Built **[Optivise Overseas](https://optiviseeducation.com)** end to end: a study-abroad platform with an **AI Study Advisor (Gemini)**, real-time booking, a lead dashboard and a 3D globe
-- 🔐 I enjoy the backend side too: PostgreSQL + **Row Level Security**, Express proxies, rate limiting
-- ⚡ Fun fact: I also build games, including a two-player **Brick Breaker** in Java
+<img src="assets/divider.svg" width="100%"/>
 
----
+## ⚡ Quick snapshot
+
+| | |
+|---|---|
+| 💼 **Experience** | Developer Intern at **Optivise Overseas Education** |
+| 🎓 **Education** | BS Computer Science, **SZABIST** Karachi (in progress) |
+| 🛠️ **Core stack** | React · TypeScript · Node.js · Express · Supabase · PostgreSQL |
+| 🤖 **AI** | Google Gemini API · OpenAI API |
+| 📍 **Location** | Karachi, Pakistan · PKT (UTC+5) · **open to remote** |
+| 🎯 **Looking for** | Remote developer internship or junior role |
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 🌟 Featured project
+
+<a href="https://optiviseeducation.com">
+  <img src="assets/featured.svg" width="100%" alt="Optivise Overseas Platform"/>
+</a>
+
+A study-abroad platform I built **end to end** as a developer intern: database, backend, admin tools and the student-facing site.
+
+- 🤖 **AI Study Advisor:** Gemini creates personalised university shortlists and visa guidance from a student's GPA, budget and destination
+- 🔐 **Secure backend:** an Express proxy keeps API keys off the client, with Helmet headers and rate limiting
+- 🗄️ **Access control:** PostgreSQL on Supabase with Row Level Security and role-based admin access
+- 📊 **Booking and admin:** real-time counselling slots, plus a lead dashboard with filters, exports and conversion analytics
+
+<a href="https://optiviseeducation.com"><img src="https://img.shields.io/badge/View%20live%20site-7cf5c8?style=for-the-badge&logo=googlechrome&logoColor=07080b" /></a>
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 💡 Why hire me
+
+| 🚀 I ship end to end | 🔐 Security-minded | ⚡ Fast learner |
+|---|---|---|
+| Took a real product from empty repo to a live platform used by a company. | RLS, role-based access, API keys kept off the client, rate limiting. | Java, Python, React, Three.js and AI APIs: I pick up whatever the job needs. |
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 🚀 More projects
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| 🎟️ **ConfPass** | Automated conference ticket generator with QR verification | HTML · CSS · JS | [Code](https://github.com/ibaad28/ConfPass) |
+| 🚗 **Auto-world** | Responsive car dealership website | HTML · CSS | [Code](https://github.com/ibaad28/Auto-world) |
+| 🍕 **Pizza Shop** | Animated, responsive pizza shop landing page | HTML · CSS · JS | [Code](https://github.com/ibaad28/responsive-pizza-shop-website) |
+| 🧮 **Numerical Root Finder** | Root-finding methods implemented in Python | Python | [Code](https://github.com/ibaad28/numerical-root-finder) |
+| 🎓 **Student Management System** | Desktop app for records, grades and attendance with reports | Java · SQL | — |
+| 🧱 **Brick Breaker** | One and two-player arcade game with levels and power-ups | Java | [Play demo](https://ibaad-portfolio-site.netlify.app/#work) |
+
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🛠️ Tech stack
 
@@ -50,41 +92,40 @@ I'm a **Computer Science student at SZABIST** who builds and ships full-stack we
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
----
+## 📜 Certifications
 
-## 🚀 Featured projects
+<p>
+  <img src="https://img.shields.io/badge/Flutter%20Development-GDG%20SSUET-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20with%20Figma-IEEE%20SZABIST-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Development-Meta%20·%20in%20progress-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🌍 **[Optivise Overseas](https://optiviseeducation.com)** | Study-abroad platform with an AI advisor, booking and admin analytics | React · TS · Supabase · Express · Gemini |
-| 🎟️ **[ConfPass](https://github.com/ibaad28/ConfPass)** | Automated conference ticket generator with QR verification | HTML · CSS · JS |
-| 🚗 **[Auto-world](https://github.com/ibaad28/Auto-world)** | Responsive car dealership website | HTML · CSS |
-| 🍕 **[Pizza Shop](https://github.com/ibaad28/responsive-pizza-shop-website)** | Animated, responsive pizza shop landing page | HTML · CSS · JS |
-| 🧮 **[Numerical Root Finder](https://github.com/ibaad28/numerical-root-finder)** | Root-finding methods implemented in Python | Python |
+<img src="assets/divider.svg" width="100%"/>
 
----
+## 🐍 Contribution activity
 
-## 📊 GitHub stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibaad28/ibaad28/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibaad28/ibaad28/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ibaad28/ibaad28/output/snake-dark.svg" width="100%" />
+</picture>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ibaad28&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7cf5c8&icon_color=7cf5c8&text_color=c9d1d9&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibaad28&layout=compact&hide_border=true&bg_color=0d1117&title_color=7cf5c8&text_color=c9d1d9&langs_count=6" />
+  <img height="160" src="https://streak-stats.demolab.com?user=ibaad28&hide_border=true&background=0d1117&ring=7cf5c8&fire=7cf5c8&currStreakLabel=7cf5c8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ecefe9&sideNums=ecefe9" />
+</p>
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 📬 Let's work together
+
+<p align="center">
+  <a href="https://wa.me/923100778624?text=Hi%20Ibaad%2C%20I%20saw%20your%20GitHub%20and%20would%20like%20to%20talk%20about%20a%20role."><img src="https://img.shields.io/badge/WhatsApp-+92%20310%200778624-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:ibaadshaikh56@gmail.com"><img src="https://img.shields.io/badge/Email-ibaadshaikh56@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shaikh-ibaad-ur-rehman-5b3437375/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ibaad28&hide_border=true&background=0d1117&ring=7cf5c8&fire=7cf5c8&currStreakLabel=7cf5c8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ecefe9&sideNums=ecefe9" />
+  <img src="https://komarev.com/ghpvc/?username=ibaad28&color=7cf5c8&style=flat-square&label=Profile+views" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibaad28&bg_color=0d1117&color=c9d1d9&line=7cf5c8&point=ecefe9&area=true&area_color=7cf5c8&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <b>💬 Let's build something together.</b> Reach me on <a href="https://wa.me/923100778624">WhatsApp</a> or <a href="mailto:ibaadshaikh56@gmail.com">email</a>.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cf5c8,50:0f3d33,100:07080b&height=110&section=footer" width="100%"/>
-</p>
+<img src="assets/footer.svg" width="100%"/>
