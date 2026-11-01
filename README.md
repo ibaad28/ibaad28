@@ -21,17 +21,13 @@
 
 ## 👋 About me
 
-```ts
-const ibaad = {
-  role:      "Full-Stack Developer · CS @ SZABIST",
-  location:  "Karachi, Pakistan 🇵🇰 · open to remote",
-  currently: "Developer Intern @ Optivise Overseas Education",
-  building:  ["AI-powered web apps", "secure APIs", "3D web experiences"],
-  learning:  "Android development (Meta via Coursera)",
-  lookingFor:"Remote internship or junior developer role",
-};
-```
+I'm a **Computer Science student at SZABIST** who builds and ships full-stack web products end to end, from database design and secure APIs to polished React interfaces.
 
+- 💼 **Currently:** Developer Intern at **Optivise Overseas Education**
+- 📍 **Based in:** Karachi, Pakistan · open to remote work
+- 🛠️ **Building:** AI-powered web apps, secure APIs and 3D web experiences
+- 📚 **Learning:** Android development (Meta via Coursera)
+- 🎯 **Looking for:** a remote internship or junior developer role
 - 🌍 Built **[Optivise Overseas](https://optiviseeducation.com)** end to end: a study-abroad platform with an **AI Study Advisor (Gemini)**, real-time booking, a lead dashboard and a 3D globe
 - 🔐 I enjoy the backend side too: PostgreSQL + **Row Level Security**, Express proxies, rate limiting
 - ⚡ Fun fact: I also build games, including a two-player **Brick Breaker** in Java
