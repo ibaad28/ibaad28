@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://ibaad28.github.io">
+  <a href="https://ibaad-portfolio-site.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=7CF5C8&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+products+end+to+end;React+%2B+TypeScript+%2B+Supabase+%2B+Express;Shipped+an+AI+study-abroad+platform+with+Gemini;Open+to+remote+internships+%26+junior+roles" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ibaad28.github.io"><img src="https://img.shields.io/badge/Portfolio-7cf5c8?style=for-the-badge&logo=googlechrome&logoColor=07080b" /></a>
+  <a href="https://ibaad-portfolio-site.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7cf5c8?style=for-the-badge&logo=googlechrome&logoColor=07080b" /></a>
   <a href="https://www.linkedin.com/in/shaikh-ibaad-ur-rehman-5b3437375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/923100778624"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:ibaadshaikh56@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
