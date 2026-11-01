@@ -1,11 +1,11 @@
 <a href="https://ibaad-portfolio-site.netlify.app/">
-  <img src="assets/header.svg" width="100%" alt="Shaikh Ibaad Ur Rehman: Full-Stack Developer"/>
+  <img src="header.svg" width="100%" alt="Shaikh Ibaad Ur Rehman: Full-Stack Developer"/>
 </a>
 
 <table align="center">
 <tr>
 <td width="250" align="center">
-  <img src="assets/avatar.svg" width="230" alt="Shaikh Ibaad Ur Rehman"/>
+  <img src="avatar.svg" width="230" alt="Shaikh Ibaad Ur Rehman"/>
 </td>
 <td>
 
@@ -23,7 +23,7 @@ I build and ship web products end to end, from database design and secure APIs t
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## ⚡ Quick snapshot
 
@@ -36,12 +36,12 @@ I build and ship web products end to end, from database design and secure APIs t
 | 📍 **Location** | Karachi, Pakistan · PKT (UTC+5) · **open to remote** |
 | 🎯 **Looking for** | Remote developer internship or junior role |
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🌟 Featured project
 
 <a href="https://optiviseeducation.com">
-  <img src="assets/featured.svg" width="100%" alt="Optivise Overseas Platform"/>
+  <img src="featured.svg" width="100%" alt="Optivise Overseas Platform"/>
 </a>
 
 A study-abroad platform I built **end to end** as a developer intern: database, backend, admin tools and the student-facing site.
@@ -53,7 +53,7 @@ A study-abroad platform I built **end to end** as a developer intern: database, 
 
 <a href="https://optiviseeducation.com"><img src="https://img.shields.io/badge/View%20live%20site-7cf5c8?style=for-the-badge&logo=googlechrome&logoColor=07080b" /></a>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 💡 Why hire me
 
@@ -61,7 +61,7 @@ A study-abroad platform I built **end to end** as a developer intern: database, 
 |---|---|---|
 | Took a real product from empty repo to a live platform used by a company. | RLS, role-based access, API keys kept off the client, rate limiting. | Java, Python, React, Three.js and AI APIs: I pick up whatever the job needs. |
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🚀 More projects
 
@@ -74,7 +74,7 @@ A study-abroad platform I built **end to end** as a developer intern: database, 
 | 🎓 **Student Management System** | Desktop app for records, grades and attendance with reports | Java · SQL | — |
 | 🧱 **Brick Breaker** | One and two-player arcade game with levels and power-ups | Java | [Play demo](https://ibaad-portfolio-site.netlify.app/#work) |
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🛠️ Tech stack
 
@@ -100,7 +100,7 @@ A study-abroad platform I built **end to end** as a developer intern: database, 
   <img src="https://img.shields.io/badge/Android%20Development-Meta%20·%20in%20progress-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🐍 Contribution activity
 
@@ -114,7 +114,7 @@ A study-abroad platform I built **end to end** as a developer intern: database, 
   <img height="160" src="https://streak-stats.demolab.com?user=ibaad28&hide_border=true&background=0d1117&ring=7cf5c8&fire=7cf5c8&currStreakLabel=7cf5c8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ecefe9&sideNums=ecefe9" />
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 📬 Let's work together
 
@@ -128,4 +128,4 @@ A study-abroad platform I built **end to end** as a developer intern: database, 
   <img src="https://komarev.com/ghpvc/?username=ibaad28&color=7cf5c8&style=flat-square&label=Profile+views" />
 </p>
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
